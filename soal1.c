@@ -1,3 +1,11 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2025/2026 * Modul : 5 - Foundation of Algorithm
+* Percobaan : Foundation of Algorithm
+* Hari dan Tanggal : Selasa, 12 Mei 2026 
+* Nama File : soal1.c 
+* Pembuat : Mhd. Khalil Alfaiz Hutasuhut
+* Deskripsi : mencetah pre order, in order, post order dari silsilah dinasti langit 
+*/ 
+
 #include <stdio.h>
 #include <stdlib.h>
 
